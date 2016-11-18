@@ -72,7 +72,7 @@
     "mocha": "^3.0.0",
     "nsp": "^2.2.0",
     "q": "^1.0.1",
-    "request": "^2.x",
+    "request": "^2.79.0",
     "rimraf": "^2.5.4",
     "semistandard": "^9.1.0",
     "socket.io-client": "^1.4.6"
