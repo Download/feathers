@@ -65,7 +65,7 @@
     "babel-preset-es2015": "^6.3.13",
     "body-parser": "^1.13.2",
     "eslint-if-supported": "^1.0.1",
-    "feathers-rest": "^1.1.0",
+    "feathers-rest": "^1.6.0",
     "feathers-socketio": "^1.1.0",
     "istanbul": "^1.1.0-alpha.1",
     "jshint": "^2.6.3",
